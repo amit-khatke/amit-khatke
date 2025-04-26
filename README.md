@@ -1,56 +1,59 @@
-<h1 align="center">Hi 👋, I'm Amit Khatke</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+<!-- Amit Khatke GitHub Profile README -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey 👋 I'm Amit Khatke</h1>
+<h3 align="center">💻 Java Full Stack Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
-- 🔭 I’m currently working on **Java Full Stack Development Projects**
-
-- 🌱 I’m currently learning **Spring Boot, ReactJS, and Microservices**
-
-- 📫 How to reach me **khatkeamit28@gmail.com**
-
-- 💬 Ask me about **Java, Spring Boot, ReactJS, and Full Stack Development**
-
-- ⚡ Fun fact **I love exploring new technologies and building real-world projects!**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B267&lines=Passionate+about+building+Full+Stack+Apps;Java+Spring+Boot+|+ReactJS+Developer;Always+Learning+New+Tech!" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me:
+- 🔥 Full Stack Developer specialized in **Java, Spring Boot, ReactJS**  
+- 🎯 Focused on **building scalable and efficient web applications**  
+- 🌍 Currently exploring **Microservices architecture and Cloud deployment**  
+- 📬 Reach me at **khatkeamit28@gmail.com**  
+- 🎨 Fun Fact: **I can spend hours learning new tech without realizing it!**
+
+---
+
+### 🛠️ Tech Stack:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="ReactJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,javascript,bootstrap,git" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKhatke&show_icons=true&locale=en" alt="Amit Khatke GitHub Stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKhatke" alt="Amit Khatke GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKhatke&theme=radical&show_icons=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKhatke&theme=radical" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitKhatke&theme=radical" width="80%" />
 </div>
 
 ---
 
-## 🌐 Connect with me
-<div align="center">
+### 🌐 Connect With Me:
+<p align="center">
   <a href="https://www.linkedin.com/in/amit-khatke-b481ab235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:khatkeamit28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
+</p>
 
 ---
 
-## 🚀 Fun Animations
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitss/github-activity-readme/master/images/activity.svg" alt="GitHub Activity" width="80%"/>
-</p>
+### 🚀 Keep Pushing Forward!
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</div>
 
 ---
