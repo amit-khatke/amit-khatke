@@ -4,7 +4,7 @@
 <h3 align="center">💻 Java Full Stack Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B267&lines=Passionate+about+building+Full+Stack+Apps;Java+Spring+Boot+|+ReactJS+Developer;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B267&center=true&vCenter=true&lines=Passionate+about+building+Full+Stack+Apps;Java+Spring+Boot+|+ReactJS+Developer;Always+Learning+New+Tech!" />
 </p>
 
 ---
@@ -27,12 +27,12 @@
 
 ### 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKhatke&theme=radical&show_icons=true&count_private=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKhatke&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-khatke&theme=radical&show_icons=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-khatke&theme=radical" width="45%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitKhatke&theme=radical" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit-khatke&theme=radical" width="80%" />
 </div>
 
 ---
